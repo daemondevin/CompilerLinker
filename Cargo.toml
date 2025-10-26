@@ -1,0 +1,11 @@
+[package]
+name = "CompilerLinker"
+version = "1.0.2"
+edition = "2021"
+
+[dependencies]
+owo-colors = "4"
+structopt = "0.3"
+
+[build-dependencies]
+winresource = "0.1"
